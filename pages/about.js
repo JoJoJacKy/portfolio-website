@@ -19,7 +19,6 @@ const About = () => {
           <Box
             m="auto"
             mt={16}
-            mt={{ base: 4, md: 0 }}
             ml={{ base: 0 }}
             mr={{ base: 0 }}
             align="center"

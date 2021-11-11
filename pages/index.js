@@ -273,7 +273,6 @@ function Page() {
               <Scale>
                 <Button
                   variant="ghost"
-                  fontWeight="bold"
                   color={useColorModeValue('#001440', '#F2EBC7')}
                   leftIcon={<Icon as={EmailIcon} />}
                   fontWeight="900"
@@ -287,7 +286,6 @@ function Page() {
               <Scale>
                 <Button
                   variant="ghost"
-                  fontWeight="bold"
                   color={useColorModeValue('#001440', '#F2EBC7')}
                   leftIcon={<Icon as={IoLogoGithub} />}
                   fontWeight="900"
@@ -305,7 +303,6 @@ function Page() {
               <Scale>
                 <Button
                   variant="ghost"
-                  fontWeight="bold"
                   color={useColorModeValue('#001440', '#F2EBC7')}
                   leftIcon={<Icon as={IoLogoLinkedin} />}
                   fontWeight="900"

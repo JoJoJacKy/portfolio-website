@@ -23,12 +23,14 @@ import { ResumeButton } from './resume-button'
 const LinkItem = ({ href, path, children }) => {
   const active = path === href
   const inactiveColor = useColorModeValue('#001440', '#F2EBC7')
+  const yesActiveBg = useColorModeValue('#001440', '#F2EBC7')
+  const yesActiveColor = useColorModeValue('#F2EBC7', '#000a1f')
   return (
     <NextLink href={href}>
       <Link
         p={2}
-        bg={active ? useColorModeValue('#001440', '#F2EBC7') : undefined}
-        color={active ? useColorModeValue('#F2EBC7', '#000a1f') : inactiveColor}
+        bg={active ? yesActiveBg : undefined}
+        color={active ? yesActiveColor : inactiveColor}
         letterSpacing={1.2}
         fontWeight="900"
         fontFamily="Nunito"
