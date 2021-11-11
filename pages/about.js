@@ -46,15 +46,15 @@ const About = () => {
           <Paragraph>
             I'm Jose, and I was born and raised in California, USA. I find
             solving problems with programming enjoyable, as well as learning new
-            ways to be creative. I enjoy drawing, but for now my love for art
-            has been put on the backlog.
+            ways to be creative. I enjoy drawing, but for now my love for
+            drawing art has been put on standby.
           </Paragraph>
           <Paragraph>
-            After graduating from CSUF, I decided I would pursue a career in
-            tech. This was not an easy decision, for my programming experience
-            was pretty limited at the time. With only a handful of semi-related
-            to programming college courses under my belt, I took the plunge to
-            learn all about web development.
+            After graduating from CSUF, I decided that I would pursue a career
+            in tech. This was not an easy decision, for my programming
+            experience was pretty limited at the time. With only a handful of
+            semi-related to programming college courses under my belt, I took
+            the plunge to learn all about web development.
           </Paragraph>
         </Section>
 
@@ -68,19 +68,17 @@ const About = () => {
             <Link href="https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994">
               Automate The Boring Stuff
             </Link>
-            . Upon completion, I realized very little knowledge on the
-            fundamentals of programming. After some research, I discovered that
-            MIT offered{' '}
+            . Upon completion, I realized that I had a weak understanding of the
+            fundamentals of programming, and this book was of no help. After
+            some research, I discovered that MIT offered{' '}
             <Link href="https://ocw.mit.edu/courses/intro-programming/">
               computer science lectures online
             </Link>
             . After completing the introductory programming courses, I felt more
-            confident in learning new languages and frameworks.
-            {/* everything related to software engineering jobs. I used the
-          requirements as */}
+            confident in attempting to learn new languages and frameworks.
           </Paragraph>
           <Paragraph>
-            The Summer of 2021 was where my learning really began. I read the
+            The Summer of 2021 was where my learning truely began. I read the
             books{' '}
             <Link href="https://www.amazon.com/C-Players-Guide-4th/dp/0985580143">
               The C# Player's Guide
@@ -114,9 +112,9 @@ const About = () => {
             Towards the end of summer I completed both of these courses, and
             eversince then I've been iterating on everything that I've learned.
             Slowly but surely I have been working on personal projects to help
-            me learn more about full-stack development and to improve my skills
-            as a programmer. Now I am confident in my ability to perform well as
-            a developer.
+            me grow and improve my skills as a full-stack developer. I still
+            have a lot to learn, but I am confident in my ability to perform
+            well as a developer.
           </Paragraph>
         </Section>
       </Container>
