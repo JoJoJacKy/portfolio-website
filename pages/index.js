@@ -114,23 +114,24 @@ function Page() {
           </Heading>
           <Paragraph>
             Hello! My name is Jose and I've recently developed a passion for
-            programming. My journey began during the final year of my undergrad
-            @ CSUF. I found myself enjoying working with Python in my
-            computational math courses. This sparked a major interest in me in
-            learning more about Python and JavaScript, which led me down a path
-            of learning all about web development. At the moment, I don't have
-            any formal{' '}
+            programming. I work primarily with the MERN stack, but recently have
+            been slowly touching on other technologies relating to Java. During
+            the final year of my undergrad at CSUF, I found myself enjoying
+            working with Python in my computational math courses. This sparked a
+            major interest in me to learn more about Python and JavaScript,
+            which led me down a path of learning all about web development. At
+            the moment, I don't have any formal{' '}
             <Link isExternal href="/jose-navas-resume.pdf">
               experience
             </Link>{' '}
-            relating to software engineering, however I am striving to change
+            relating to software engineering, however, I am striving to change
             that. If interested, you can learn more about my journey into
             programming{'  '}
             <NextLink href="/about">
               <Link>here</Link>
             </NextLink>
-            ,{'  '}and below are some technologies that I've recently worked
-            with this past year.
+            , and below are some technologies that I've been working with this
+            past year.
           </Paragraph>
         </Section>
 

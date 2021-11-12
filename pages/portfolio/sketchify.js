@@ -11,11 +11,12 @@ const Sketchify = () => {
         <Title>Sketchify</Title>
         <Paragraph>
           A RESTful web app whose client and server communications are handled
-          with Redux and Express. Includes user authentication done via Google's
-          OAuth and JWT. User data is stored in a database hosted on MongoDB.
-          Resource creation involves the execution of C.R.U.D. operations within
-          the server, but requires users to be logged in. Can also like and
-          comment on other posts from other users as well!
+          with Axios and Express. State management is solved with Redux, and
+          includes user authentication handled with Google's OAuth and JWT. User
+          data is stored in a database hosted on MongoDB. Resource creation
+          involves the execution of C.R.U.D. operations within the server, but
+          requires users to be logged in. Can also like and comment on other
+          posts from other users as well!
         </Paragraph>
         <List ml={4} my={4}>
           <ListItem>
