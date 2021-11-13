@@ -6,7 +6,7 @@ import Layout from '../../components/layouts/article'
 
 const FinalBattle = () => {
   return (
-    <Layout title="FinalBattle">
+    <Layout title="C# Mini Text Game">
       <Container maxW="container.md">
         <Title>C# Mini Text Game</Title>
         <Paragraph>
