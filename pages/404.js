@@ -35,7 +35,7 @@ const NotFound = () => {
                   bg: useColorModeValue('#001440', '#f1e9c1')
                 }}
               >
-                Contact
+                Home
               </Button>
             </Scale>
           </NextLink>
